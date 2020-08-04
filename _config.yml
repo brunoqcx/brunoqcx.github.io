@@ -22,9 +22,9 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'Sobre', link: '/about'}
-  - {name: 'Atendimentos e cursos', link: '/courses'}
-  - {name: 'Contato', link: '/contact'}
+  - {name: 'Sobre', link: '/sobre'}
+  - {name: 'Atendimentos e cursos', link: '/cursos'}
+  - {name: 'Contato', link: '/contato'}
 
 tagline: >
   Cartas da alma
